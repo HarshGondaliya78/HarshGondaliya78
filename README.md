@@ -1,4 +1,4 @@
-![MasterHead](https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2021/09/GitHub_logo.png?resize=730%2C389&ssl=1)
+![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/03/giphy-7.gif)
 
 <h1 align="center">Hi 👋, I'm Harsh Gondaliya</h1>
 <h3 align="center">A passionate Engineer from India</h3>
