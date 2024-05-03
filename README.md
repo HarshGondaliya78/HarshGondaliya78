@@ -1,13 +1,13 @@
 ![MasterHead](https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2021/09/GitHub_logo.png?resize=730%2C389&ssl=1)
 
 <h1 align="center">Hi 👋, I'm Harsh Gondaliya</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate Engineer from India</h3>
 <p align="left"> <br><img src="https://komarev.com/ghpvc/?username=harshgondaliya78&label=Profile%20views&color=0e75b6&style=flat" alt="harshgondaliya78" /> </p>
 
 <br>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
-- 🌱 I’m currently learning **Engineering**
+- 🌱 I’m currently learning  **"Electronics Engineering"**
 
 - 📫 How to reach me **harshgondaliya690@gmail.com**
 
