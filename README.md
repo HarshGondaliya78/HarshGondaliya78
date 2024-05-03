@@ -26,6 +26,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshgondaliya78" alt="harshgondaliya78" /></a> </p></br>
 
 
-<p><img align="left"  alt="Coding" width="475" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshgondaliya78&show_icons=true&locale=en&layout=compact" alt="harshgondaliya78" /></p>
-<p>&nbsp;<img align="right  " width="475" src="https://github-readme-stats.vercel.app/api?username=harshgondaliya78&show_icons=true&locale=en" alt="harshgondaliya78" /></p>
-<p><img align="center"   src="https://github-readme-streak-stats.herokuapp.com/?user=harshgondaliya78&" alt="harshgondaliya78" /></p>
+<p><img align="left"  width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshgondaliya78&show_icons=true&locale=en&layout=compact" alt="harshgondaliya78" /></p>
+
+<p>&nbsp;<img align="center"  width="400" src="https://github-readme-stats.vercel.app/api?username=harshgondaliya78&show_icons=true&locale=en" alt="harshgondaliya78" /></p>
+
+<p><img align="left"  width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=harshgondaliya78&" alt="harshgondaliya78" /></p>
