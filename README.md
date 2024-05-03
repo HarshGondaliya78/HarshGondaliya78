@@ -5,7 +5,7 @@
 <p align="left"> <br><img src="https://komarev.com/ghpvc/?username=harshgondaliya78&label=Profile%20views&color=0e75b6&style=flat" alt="harshgondaliya78" /> </p>
 
 <br>
-<img align="right" alt="Coding" width="475" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
 - 🌱 I’m currently learning **Engineering**
 
@@ -25,7 +25,7 @@
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshgondaliya78" alt="harshgondaliya78" /></a> </p></br>
 
-<br>
+
 <p><img align="left"  alt="Coding" width="475" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshgondaliya78&show_icons=true&locale=en&layout=compact" alt="harshgondaliya78" /></p>
-<p>&nbsp;<img align="right  " alt="Coding" width="475" src="https://github-readme-stats.vercel.app/api?username=harshgondaliya78&show_icons=true&locale=en" alt="harshgondaliya78" /></p>
-<p><img align="left"  alt="Coding" width="475" src="https://github-readme-streak-stats.herokuapp.com/?user=harshgondaliya78&" alt="harshgondaliya78" /></p></br>
+<p>&nbsp;<img align="right  " width="475" src="https://github-readme-stats.vercel.app/api?username=harshgondaliya78&show_icons=true&locale=en" alt="harshgondaliya78" /></p>
+<p><img align="center"   src="https://github-readme-streak-stats.herokuapp.com/?user=harshgondaliya78&" alt="harshgondaliya78" /></p>
