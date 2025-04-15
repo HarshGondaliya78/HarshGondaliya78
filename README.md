@@ -22,3 +22,11 @@
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>  <a href="https://www.perl.org/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="40" height="40"/> </a> </p></br>
 
 <br
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshgondaliya78" alt="harshgondaliya78" /></a> </p></br>
+
+
+<p><img align="left"  width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshgondaliya78&show_icons=true&locale=en&layout=compact" alt="harshgondaliya78" /></p>
+
+<p>&nbsp;<img align="center"  width="400" src="https://github-readme-stats.vercel.app/api?username=harshgondaliya78&show_icons=true&locale=en" alt="harshgondaliya78" /></p>
+
