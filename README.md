@@ -1,4 +1,4 @@
-![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/03/giphy-7.gif)
+![MasterHead](https://www.giet.edu/wp-content/uploads/2019/07/power-convertor-banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Harsh Gondaliya</h1>
 <h3 align="center">A passionate Electronics Engineer from India</h3>
